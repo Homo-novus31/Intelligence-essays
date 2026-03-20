@@ -1,6 +1,6 @@
 # 🧩 Social Intelligence > SuperIntelligence🤫
 
-✍️ Originally published on Substack  
+✍️ Originally published on Substack titled - Social not Super.
 🔗 [Read original](https://nahushts.substack.com/p/social-not-super)
 
 ---
