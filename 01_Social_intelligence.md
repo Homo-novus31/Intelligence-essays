@@ -87,7 +87,7 @@ Frameworks like:
 
 ## 🌍 Real-World Implications
 
-### 🏥 Healthcare
+### Healthcare
 Current Healthcare Systems:
 -Lack coordination between doctors, records of patients and pharmacists.
 -AI is mostly non-existent in this current equation.
@@ -100,7 +100,7 @@ AI agents coordinating across:
 
 ---
 
-### 🎓 Education
+### Education
 Current Education:
 -Has a wide gap between teachers and AI tutors.
 -AI tutors being mostly generalised fail to understand each studentas per his strengths and weaknesses'
@@ -113,7 +113,7 @@ AI that:
 
 ---
 
-### 📦 Logistics
+###  Logistics
 Current Logistics:
 -Is unpredictable and in constant chaos bcause of the ever changing consumer sentiment.
 - This leads to delays and shortages in some places while surplus in others'
@@ -126,7 +126,7 @@ Multi-agent coordination can:
 
 ---
 
-## ⚡ Key Insight
+##  Key Insight
 
 We are scaling intelligence.
 
@@ -136,7 +136,7 @@ That is the bottleneck.
 
 ---
 
-## 🚀 Final Thought
+##  Final Thought
 
 We are not building superintelligence.
 
