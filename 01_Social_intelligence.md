@@ -1,4 +1,4 @@
-       # 
+#Human Intelligence
 
 The human brain has not significantly evolved over 100,000 years, and yet in the course of this time we discovered agriculture and natural sciences, built civilisations, landed on the surface of the Moon and then went on to discover Artificial intelligence, but a question arises.
 
