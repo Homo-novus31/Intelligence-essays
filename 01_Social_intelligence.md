@@ -1,3 +1,22 @@
+---
+title:"Social Intelligence > Super Intelligence"
+description: "A concise breakdown as to why the next frontier in AI development is building systems that interact with eachother, not just scaling them based on increased compute or parameters "
+author: "Nahush"
+date: 2026-03-20
+tags:
+  - AI
+  - Machine Learning
+  - AI Safety
+  - Emergent Intelligence
+  - Evaluation
+  - Social-AI
+categories:
+  - AI Research
+  - Summaries
+readingTime: "5 min"
+featured: true
+---
+
 #  Social Intelligence > SuperIntelligence
 
 Originally published on Substack titled - Social not Super.
@@ -149,4 +168,4 @@ It will come from **connected ones**.
 
 ---
 
-📬 Follow my work → Substack (https://substack.com/@nahush428004)
+Follow my work → Substack (https://substack.com/@nahush428004)
