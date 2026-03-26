@@ -3,13 +3,7 @@ title:"Social Intelligence > Super Intelligence"
 description: "A concise breakdown as to why the next frontier in AI development is building systems that interact with eachother, not just scaling them based on increased compute or parameters "
 author: "Nahush"
 date: 2026-03-20
-tags:
-  - AI
-  - Machine Learning
-  - AI Safety
-  - Emergent Intelligence
-  - Evaluation
-  - Social-AI
+tags:[AI Machine Learning AI SafetyEmergent Intelligence EvaluationSocial-AI
 categories:
   - AI Research
   - Summaries
