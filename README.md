@@ -14,7 +14,7 @@ Intelligence is not just compute but interaction.
 An essay on why benchmarks are misleading when scoring current AI models.
 🔗[Read in Substack](https://nahushts.substack.com/p/are-ai-benchmarks-telling-the-truth)
 📖[Read in Repo](./02_why_benchmarks_mislead.md)
-####Areas in Focus
+#### Areas in Focus
 - Limitations to current benchmarks
 - Implications of trusting such benchmarks
 #### Thesis
