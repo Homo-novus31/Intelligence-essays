@@ -1,5 +1,5 @@
 ---
-title:"Social Intelligence > Super Intelligence"
+title: "Social Intelligence > Super Intelligence"
 description: "A concise breakdown as to why the next frontier in AI development is building systems that interact with eachother, not just scaling them based on increased compute or parameters "
 author: "Nahush"
 date: 2026-03-20
