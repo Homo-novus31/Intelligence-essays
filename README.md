@@ -14,9 +14,9 @@ Intelligence is not just compute but interaction.
 An essay on why benchmarks are misleading when scoring current AI models.
 🔗[Read in Substack](https://nahushts.substack.com/p/are-ai-benchmarks-telling-the-truth)
 📖[Read in Repo](./02_why_benchmarks_mislead.md)
-### Areas in Focus
--Limitations to current benchmarks
--Implications of trusting such benchmarks
+####Areas in Focus
+- Limitations to current benchmarks
+- Implications of trusting such benchmarks
 #### Thesis
 AI benchmarks, while useful, are flawed. They often measure familiarity rather than true understanding, suffer from data contamination, and lack generalisation across domains. Additionally, the lack of transparency, potential for bias, and the influence of a small group of curators raise concerns about their fairness and reliability.
 
