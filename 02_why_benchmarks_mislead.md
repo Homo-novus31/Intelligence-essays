@@ -1,7 +1,7 @@
  ---
 title: "Are AI Benchmarks Telling the Truth - a summary?"
 description: "A concise breakdown of why AI benchmarks may misrepresent true model intelligence, highlighting issues like contamination, lack of generalization, and flawed evaluation systems."
-author: "Captain"
+author: "Nahush"
 date: 2026-03-26
 tags: ["AI", "Machine Learning", "AI Safety", "Benchmarks", "Evaluation", "Research"]
 categories: ["AI Research", "Summaries"]
