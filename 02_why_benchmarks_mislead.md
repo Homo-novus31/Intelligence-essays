@@ -80,3 +80,6 @@ The real challenge ahead is to build **better evaluation systems**:
 The question we should keep asking is simple:
 
 **Are we measuring real understanding or just optimizing for a test for a leaderboard?**
+
+Follow my work → Substack (https://substack.com/@nahush428004)
+
