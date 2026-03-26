@@ -1,11 +1,10 @@
-# 🧩 Social Intelligence > SuperIntelligence🤫
+#  Social Intelligence > SuperIntelligence
 
-✍️ Originally published on Substack titled - Social not Super.
-🔗 [Read original](https://nahushts.substack.com/p/social-not-super)
+Originally published on Substack titled - Social not Super.
 
 ---
 
-## 🚨 The Problem
+## The Problem
 
 Modern AI systems are trained in isolation.
 
@@ -23,7 +22,7 @@ So the real question is:
 
 ---
 
-## 🧠 Human Intelligence is Social
+##  Human Intelligence is Social
 
 The human brain has not significantly evolved in 100,000 years.
 
@@ -85,7 +84,7 @@ Frameworks like:
 
 ---
 
-## 🌍 Real-World Implications
+##  Real-World Implications
 
 ### Healthcare
 Current Healthcare Systems:
